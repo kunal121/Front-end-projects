@@ -1,0 +1,46 @@
+.content {
+  color:red;
+  text-align: justify;
+  border: 2px groove blue;
+  padding: 20px;
+  width:300px;
+  border-radius: 30px;
+  margin-top: 20px;
+
+}
+
+.name {
+  width:50px;
+  padding: 10px;
+  margin-left: 110px;
+  font-size:30px;
+  font-weight: 900;
+
+}
+
+.tiger_img {
+  border:1px solid;
+  margin-left:20px;
+  width:300px;
+}
+
+.container {
+  margin-left: 40%;
+  border: 2px solid blue;
+  padding: 20px;
+  width:350px;
+  border-radius: 10px;
+}
+
+.lable {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  font-family: algerian;
+}
+
+.fact {
+    font-style: italic;
+}

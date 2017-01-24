@@ -1,0 +1,36 @@
+.logo_img {
+  padding-top:10px;
+  }
+
+  .logo
+  {
+    width:5vw;
+    height: 10vh;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+
+.name {
+  text-align: center;
+}
+
+.container
+{
+font-family: 'Satisfy', cursive;
+}
+
+.cover_img {
+  width:200vh;
+  border-radius: 10px;
+  border: 10px solid;
+}
+
+.img {
+  width:80%;
+  height:50vh;
+  border-radius: 20px;
+  border: 10px solid;
+}
+.heading {
+  margin-top: 10px;
+}

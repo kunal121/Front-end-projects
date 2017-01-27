@@ -86,9 +86,9 @@ function logClicks(x,y) {
 }
 
 $(document).click(function(loc) {
-  var x=loc.pageX;
-  var y=loc.pageY;
-  logClicks(x,y);// your code goes here!
+//  var x=loc.pageX;
+  //var y=loc.pageY;
+  //logClicks(x,y);// your code goes here!
 });
 
 
@@ -126,8 +126,8 @@ function initializeMap() {
 
     // initializes an empty array
     var locations = [];
-
     // adds the single location property from bio to the locations array
+
     locations.push(bio.contacts.location);
 
     // iterates through school locations and appends each location to

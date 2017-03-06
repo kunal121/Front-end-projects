@@ -1,0 +1,27 @@
+.header {
+    background-color: #0375B4;
+    width: 100%;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.list {
+    font-size: 20px;
+}
+
+#map {
+    height: 60%;
+    position: relative;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.col-md-10 {
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Pacifico', cursive;
+}
